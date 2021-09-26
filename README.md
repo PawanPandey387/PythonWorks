@@ -1,6 +1,6 @@
 # PythonWorks
 
-##.  PythonWork for school
+## PythonWork for school
 
 Explanation of how the Huffman frequency tree is built in the code is given the demonstration videos, otherwise the code itself has been commented properly. 
 
