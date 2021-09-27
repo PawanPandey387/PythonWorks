@@ -10,7 +10,7 @@ Explanation of how the Huffman frequency tree is built in the code is given the 
 
 
 
-##### Name ###### Pawan Pandey
+###### Pawan Pandey
 
 **What I am summitting:** I am submitting a working lossless compressor software that is based on the Huffman algorithm. I programmed it by myself for a course titled, CSC440:Design and Analysis of Algorithms.
 [Link to the source Code](https://github.com/PawanPandey387/PythonWorks)
