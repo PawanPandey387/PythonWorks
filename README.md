@@ -37,7 +37,7 @@ python Huffman.py -c filename_to_be_compressed filename_of_compressed_file.
 
 python Huffman.py -c filename_of_compressed_file Decompressed_filename
 
-[Video Demonstration](https://www.youtube.com/watch?v=_H5GAiPVzyo)
+[Video Demonstration](https://www.youtube.com/watch?v=imuXLvBLI80)
 
 
 
