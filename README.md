@@ -26,7 +26,7 @@ The coding was entirely done by me, however it is based on the famous Huffman gr
 
 ## How to run the software:
 **Requirements:** *To run this software you need Python 2.7. As the coding was doneseveral years ago, the software is not compatible with Python 3.*
-You will also need a txt file to compress. I am providing pride.txt file in the source code to test. Instructions and demonstration begin at 4:24 in the linked video. 
+You will also need a txt file to compress. I am providing pride.txt file in the source code to test. Instructions and demonstration begin at 00:38 in the linked video. 
 **To Run:** It can be run through command line.
 
 ***To compress type on command line:***
